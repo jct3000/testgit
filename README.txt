@@ -1,4 +1,1 @@
-Progama de game; a~render utilizar pygame.
-
-
-testing
+Programa de game; aprender utilizar pygame.
